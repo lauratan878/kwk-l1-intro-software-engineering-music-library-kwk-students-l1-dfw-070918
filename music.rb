@@ -11,6 +11,7 @@ music_library = {
 def list_artists(artists)
 "list_artists".each do |artists|
 puts list_artists
+end
 end 
 end 
 
