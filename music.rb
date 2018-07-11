@@ -10,7 +10,7 @@ music_library = {
 # This method should accept a hash as an argument.
 def list_artists(artists)
 "list_artists".each do |artists|
-puts 
+puts list_artists
 
 
 
